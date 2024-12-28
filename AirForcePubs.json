@@ -1,0 +1,2032 @@
+[
+    [
+        "A2/AD",
+        "Anti-access, Area-denial",
+        "Air"
+    ],
+    [
+        "AA",
+        "Active Associate: ANG/AFRC-owned Aircraft",
+        "Air"
+    ],
+    [
+        "AAB",
+        "Army Air Base",
+        "Air"
+    ],
+    [
+        "AAF",
+        "Army Airfield",
+        "Air"
+    ],
+    [
+        "AATTC",
+        "Advanced Airlift Tactics Training Center",
+        "Air"
+    ],
+    [
+        "AB",
+        "Air Base",
+        "Air"
+    ],
+    [
+        "ABG",
+        "Air Base Group",
+        "Air"
+    ],
+    [
+        "ABM",
+        "Air Battle Manager",
+        "Air"
+    ],
+    [
+        "ABMS",
+        "Advanced Battle Management System",
+        "Air"
+    ],
+    [
+        "ABW",
+        "Air Base Wing",
+        "Air"
+    ],
+    [
+        "ACC",
+        "Air Combat Command",
+        "Air"
+    ],
+    [
+        "ACE",
+        "Agile Combat Employment",
+        "Air"
+    ],
+    [
+        "ACG",
+        "Air Control Group",
+        "Air"
+    ],
+    [
+        "ACS",
+        "Air Control Squadron",
+        "Air"
+    ],
+    [
+        "ACTS",
+        "Air Combat Training Squadron",
+        "Air"
+    ],
+    [
+        "ACW",
+        "Air Control Wing",
+        "Air"
+    ],
+    [
+        "AD",
+        "Active Duty",
+        "Air"
+    ],
+    [
+        "ADCON",
+        "Administrative Control",
+        "Air"
+    ],
+    [
+        "ADS-B",
+        "Automatic Dependent Surveillance-broadcast",
+        "Air"
+    ],
+    [
+        "AE",
+        "Aeromedical Evacuation",
+        "Air"
+    ],
+    [
+        "AEHF",
+        "Advanced Extremely High Frequency",
+        "Air"
+    ],
+    [
+        "AESA",
+        "Active Electronically Scanned Array",
+        "Air"
+    ],
+    [
+        "AETC",
+        "Air Education and Training Command",
+        "Air"
+    ],
+    [
+        "AFB",
+        "Air Force Base",
+        "Air"
+    ],
+    [
+        "AFDW",
+        "Air Force District of Washington",
+        "Air"
+    ],
+    [
+        "AFE",
+        "Aircrew Flight Equipment",
+        "Air"
+    ],
+    [
+        "AFFORGEN",
+        "Air Force Generation",
+        "Air"
+    ],
+    [
+        "AFGSC",
+        "Air Force Global Strike Command",
+        "Air"
+    ],
+    [
+        "AFI",
+        "Air Force Instruction",
+        "Air"
+    ],
+    [
+        "AFLCMC",
+        "Air Force Life Cycle Management Center",
+        "Air"
+    ],
+    [
+        "AFMAN",
+        "Air Force Manual",
+        "Air"
+    ],
+    [
+        "AFMC",
+        "Air Force Materiel Command",
+        "Air"
+    ],
+    [
+        "AFNWC",
+        "Air Force Nuclear Weapons Center",
+        "Air"
+    ],
+    [
+        "AFRC",
+        "Air Force Reserve Command",
+        "Air"
+    ],
+    [
+        "AFRL",
+        "Air Force Research Laboratory",
+        "Air"
+    ],
+    [
+        "AFS",
+        "Air Force Station",
+        "Air"
+    ],
+    [
+        "AFSC",
+        "Air Force Specialty Code",
+        "Air"
+    ],
+    [
+        "AFSC",
+        "Air Force Specialty Code",
+        "Air"
+    ],
+    [
+        "AFSMO",
+        "Air Force Spectrum Management Office",
+        "Air"
+    ],
+    [
+        "AFSO21",
+        "Air Force Smart Operations for the 21st Century",
+        "Air"
+    ],
+    [
+        "AFSOC",
+        "Air Force Special Operations Command",
+        "Air"
+    ],
+    [
+        "AFSPC",
+        "Air Force Space Command",
+        "Air"
+    ],
+    [
+        "AFTC",
+        "Air Force Test Center",
+        "Air"
+    ],
+    [
+        "AG",
+        "Airlift Group",
+        "Air"
+    ],
+    [
+        "AGE",
+        "Aerospace Ground Equipment",
+        "Air"
+    ],
+    [
+        "AGM",
+        "Air-to-ground Missile",
+        "Air"
+    ],
+    [
+        "AGOW",
+        "Air Ground Operations Wing",
+        "Air"
+    ],
+    [
+        "AGS",
+        "Air Guard Station",
+        "Air"
+    ],
+    [
+        "AGS",
+        "Alliance Ground Surveillance",
+        "Air"
+    ],
+    [
+        "AI",
+        "Artificial Intelligence",
+        "Air"
+    ],
+    [
+        "AIM",
+        "Air Intercept Missile",
+        "Air"
+    ],
+    [
+        "ALC",
+        "Air Logistics Complex",
+        "Air"
+    ],
+    [
+        "ALCF",
+        "Airlift Control Flight",
+        "Air"
+    ],
+    [
+        "ALCM",
+        "Air-launched Cruise Missile",
+        "Air"
+    ],
+    [
+        "ALCOM",
+        "Alaskan Command",
+        "Air"
+    ],
+    [
+        "ALQ",
+        "Airman Leadership Quality",
+        "Air"
+    ],
+    [
+        "ALS",
+        "Airman Leadership School",
+        "Air"
+    ],
+    [
+        "ALTV",
+        "Approach and Landing Test Vehicle",
+        "Air"
+    ],
+    [
+        "AMC",
+        "Air Mobility Command",
+        "Air"
+    ],
+    [
+        "AMOG",
+        "Air Mobility Operations Group",
+        "Air"
+    ],
+    [
+        "AMOW",
+        "Air Mobility Operations Wing",
+        "Air"
+    ],
+    [
+        "AMRAAM",
+        "Advanced Medium-range",
+        "Air"
+    ],
+    [
+        "AMS",
+        "Air Mobility Squadron",
+        "Air"
+    ],
+    [
+        "AMW",
+        "Air Mobility Wing",
+        "Air"
+    ],
+    [
+        "ANG",
+        "Air National Guard",
+        "Air"
+    ],
+    [
+        "ANGB",
+        "Air National Guard Base",
+        "Air"
+    ],
+    [
+        "ANGS",
+        "Air National Guard Station",
+        "Air"
+    ],
+    [
+        "AOC/G/S",
+        "Air and Space Operations Center/group/squadron",
+        "Air"
+    ],
+    [
+        "AOR",
+        "Area of Responsibility",
+        "Air"
+    ],
+    [
+        "APF",
+        "Appropriated Funds",
+        "Air"
+    ],
+    [
+        "APO",
+        "Ae Army/air Force Post Office Europe",
+        "Air"
+    ],
+    [
+        "APO",
+        "Ap Army/air Force Post Office Pacific",
+        "Air"
+    ],
+    [
+        "APS",
+        "Aerial Port Squadron",
+        "Air"
+    ],
+    [
+        "ARB",
+        "Air Reserve Base",
+        "Air"
+    ],
+    [
+        "ARG",
+        "Air Refueling Group",
+        "Air"
+    ],
+    [
+        "ARS",
+        "1) Air Refueling Squadron 2) Reserve Station",
+        "Air"
+    ],
+    [
+        "ART",
+        "Air Reserve Technician",
+        "Air"
+    ],
+    [
+        "ARW",
+        "Air Refueling Wing",
+        "Air"
+    ],
+    [
+        "AS",
+        "1) Air Station 2) Airlift Squadron",
+        "Air"
+    ],
+    [
+        "ASIP",
+        "Airborne Signals Intelligence Payload",
+        "Air"
+    ],
+    [
+        "ASOS/G",
+        "Air Support Operations Squadron/group",
+        "Air"
+    ],
+    [
+        "ASTF",
+        "Aeromedical Staging Flight",
+        "Air"
+    ],
+    [
+        "AT",
+        "Annual Tour",
+        "Air"
+    ],
+    [
+        "ATCS",
+        "Air Traffic Control Squadron",
+        "Air"
+    ],
+    [
+        "ATKW",
+        "Attack Wing",
+        "Air"
+    ],
+    [
+        "ATO",
+        "Air Tasking Order",
+        "Air"
+    ],
+    [
+        "ATP",
+        "Advanced Targeting Pod",
+        "Air"
+    ],
+    [
+        "AW",
+        "Airlift Wing",
+        "Air"
+    ],
+    [
+        "AWACS",
+        "Airborne Warning and Control System",
+        "Air"
+    ],
+    [
+        "Air-to-Air",
+        "Missile",
+        "Air"
+    ],
+    [
+        "Arpt.",
+        "Airport",
+        "Air"
+    ],
+    [
+        "BACN",
+        "Battlefield Airborne Communications Node",
+        "Air"
+    ],
+    [
+        "BLOS",
+        "Beyond Line of Sight",
+        "Air"
+    ],
+    [
+        "BLU",
+        "Bomb Live Unit",
+        "Air"
+    ],
+    [
+        "BM",
+        "Battle Management",
+        "Air"
+    ],
+    [
+        "BMEWS",
+        "Ballistic Missile Early Warning System",
+        "Air"
+    ],
+    [
+        "BMT",
+        "Basic Military Training",
+        "Air"
+    ],
+    [
+        "BNR",
+        "By Name Request",
+        "Air"
+    ],
+    [
+        "BW",
+        "Bomb Wing",
+        "Air"
+    ],
+    [
+        "C2",
+        "Command and Control",
+        "Air"
+    ],
+    [
+        "C2",
+        "Command and Control",
+        "Air"
+    ],
+    [
+        "C3",
+        "Command, Control, and Communications",
+        "Air"
+    ],
+    [
+        "C3I",
+        "Command, Control, Communications and Intelligence",
+        "Air"
+    ],
+    [
+        "C4",
+        "Command, Control, Communications, and Computers",
+        "Air"
+    ],
+    [
+        "C4ISR",
+        "Command, Control, Communications, Computers, Intelligence,",
+        "Air"
+    ],
+    [
+        "CACS",
+        "Command and Control Squadron (space)",
+        "Air"
+    ],
+    [
+        "CALCM",
+        "Conventional Air-launched Cruise Missile",
+        "Air"
+    ],
+    [
+        "CAOC",
+        "Combined Air Operations Center",
+        "Air"
+    ],
+    [
+        "CAS",
+        "Close Air Support",
+        "Air"
+    ],
+    [
+        "CAS",
+        "Close Air Support",
+        "Air"
+    ],
+    [
+        "CAT",
+        "Crisis Action Team",
+        "Air"
+    ],
+    [
+        "CATM",
+        "Combat Arms Training and Maintenance",
+        "Air"
+    ],
+    [
+        "CBCS",
+        "Combat Communications Squadron",
+        "Air"
+    ],
+    [
+        "CBRN",
+        "Chemical, Biological, Radiological, Nuclear",
+        "Air"
+    ],
+    [
+        "CBT",
+        "Computer Based Training",
+        "Air"
+    ],
+    [
+        "CBU",
+        "Cluster Bomb Unit",
+        "Air"
+    ],
+    [
+        "CC",
+        "Combat Communications",
+        "Air"
+    ],
+    [
+        "CCG",
+        "Combat Communications Group",
+        "Air"
+    ],
+    [
+        "CCIP",
+        "Commander's Inspection Program",
+        "Air"
+    ],
+    [
+        "CCW",
+        "Command and Control Wing",
+        "Air"
+    ],
+    [
+        "CDI",
+        "Commander Directed Investigation",
+        "Air"
+    ],
+    [
+        "CEF",
+        "Civil Engineering Flight",
+        "Air"
+    ],
+    [
+        "CEM",
+        "Combat Effects Munition",
+        "Air"
+    ],
+    [
+        "CENTCOM",
+        "U.S. Central Command",
+        "Air"
+    ],
+    [
+        "CEP",
+        "Circular Error Probable",
+        "Air"
+    ],
+    [
+        "CFAC",
+        "Combined Force Air Component Commander",
+        "Air"
+    ],
+    [
+        "CFIN",
+        "Combat Flight Inspection",
+        "Air"
+    ],
+    [
+        "CFT",
+        "Conformal Fuel Tank",
+        "Air"
+    ],
+    [
+        "CG",
+        "Communications Group",
+        "Air"
+    ],
+    [
+        "CLA",
+        "Chief Master Sergeant Leadership Academy",
+        "Air"
+    ],
+    [
+        "CLC",
+        "Chief Master Sergeant Leadership Course",
+        "Air"
+    ],
+    [
+        "CNS/ATM",
+        "Communications, Navigation, Surveillance/air Traffic Management",
+        "Air"
+    ],
+    [
+        "COA",
+        "Course of Action",
+        "Air"
+    ],
+    [
+        "CODEL",
+        "Congressional Delegation",
+        "Air"
+    ],
+    [
+        "COIN",
+        "Counter Insurgency",
+        "Air"
+    ],
+    [
+        "COMINT",
+        "Communications Intelligence",
+        "Air"
+    ],
+    [
+        "CONECT",
+        "Combat Network Communications Technology",
+        "Air"
+    ],
+    [
+        "CONOPS",
+        "Concept of Operations",
+        "Air"
+    ],
+    [
+        "CONUS",
+        "Continental U.S.",
+        "Air"
+    ],
+    [
+        "CONUS",
+        "Continental United States",
+        "Air"
+    ],
+    [
+        "COOP",
+        "Continuity of Operations",
+        "Air"
+    ],
+    [
+        "COS",
+        "Cyberspace Operations Squadron",
+        "Air"
+    ],
+    [
+        "CRF",
+        "Centralized Repair Facility",
+        "Air"
+    ],
+    [
+        "CRG",
+        "Contingency Response Group",
+        "Air"
+    ],
+    [
+        "CRTC",
+        "Combat Readiness Training Center",
+        "Air"
+    ],
+    [
+        "CRW",
+        "Contingency Response Wing",
+        "Air"
+    ],
+    [
+        "CSAR",
+        "Combat Search and Rescue",
+        "Air"
+    ],
+    [
+        "CSAR",
+        "Combat Search and Rescue",
+        "Air"
+    ],
+    [
+        "CSO",
+        "Combat Systems Officer",
+        "Air"
+    ],
+    [
+        "CTOL",
+        "Conventional Takeoff and Landing",
+        "Air"
+    ],
+    [
+        "CTS",
+        "Combat Training Squadron",
+        "Air"
+    ],
+    [
+        "CW",
+        "1) Cyberspace Wing 2) Combat Weather",
+        "Air"
+    ],
+    [
+        "DAF",
+        "Department of the Air Force",
+        "Air"
+    ],
+    [
+        "DCGS",
+        "Distributed Common Ground System",
+        "Air"
+    ],
+    [
+        "DEOCS",
+        "Defense Equal Opportunity Climate Survey",
+        "Air"
+    ],
+    [
+        "DFAC",
+        "Dining Facility",
+        "Air"
+    ],
+    [
+        "DG",
+        "Distinguished Graduate",
+        "Air"
+    ],
+    [
+        "DMOC",
+        "Distributed Mission Operations Center",
+        "Air"
+    ],
+    [
+        "DMSP",
+        "Defense Meteorological Satellite Program",
+        "Air"
+    ],
+    [
+        "DOD",
+        "Department of Defense",
+        "Air"
+    ],
+    [
+        "DSCS",
+        "Defense Satellite Communications System",
+        "Air"
+    ],
+    [
+        "DSP",
+        "Defense Support Program",
+        "Air"
+    ],
+    [
+        "DSRP",
+        "Defense Space Reconnaissance Program",
+        "Air"
+    ],
+    [
+        "DTOC",
+        "Distributed Training Operations Center",
+        "Air"
+    ],
+    [
+        "DV",
+        "Distinguished Visitor",
+        "Air"
+    ],
+    [
+        "DV",
+        "Distinguished Visitors",
+        "Air"
+    ],
+    [
+        "EA",
+        "Electronic Attack",
+        "Air"
+    ],
+    [
+        "ECG",
+        "Electronic Combat Group",
+        "Air"
+    ],
+    [
+        "ECM",
+        "Electronic Countermeasures",
+        "Air"
+    ],
+    [
+        "EELV",
+        "Evolved Expendable Launch Vehicle",
+        "Air"
+    ],
+    [
+        "EHF",
+        "Extremely High Frequency",
+        "Air"
+    ],
+    [
+        "EIS(G)",
+        "Engineering Installation Squadron/group",
+        "Air"
+    ],
+    [
+        "EISS",
+        "Enhanced Integrated Sensor Suite",
+        "Air"
+    ],
+    [
+        "EKIA",
+        "Enemy Killed in Action",
+        "Air"
+    ],
+    [
+        "ELINT",
+        "Electronic Intelligence",
+        "Air"
+    ],
+    [
+        "ENG",
+        "Engineering/engineer",
+        "Air"
+    ],
+    [
+        "EO",
+        "Electro Optical",
+        "Air"
+    ],
+    [
+        "EOC",
+        "Emergency Operations Center",
+        "Air"
+    ],
+    [
+        "EOD",
+        "Explosive Ordnance Disposal",
+        "Air"
+    ],
+    [
+        "EOD",
+        "Explosive Ordnance Disposal",
+        "Air"
+    ],
+    [
+        "EOY",
+        "End of Year",
+        "Air"
+    ],
+    [
+        "EPR",
+        "Enlisted Performance Report",
+        "Air"
+    ],
+    [
+        "ER",
+        "Extended Range",
+        "Air"
+    ],
+    [
+        "EW",
+        "Electronic Warfare",
+        "Air"
+    ],
+    [
+        "EW",
+        "Electronic Warfare",
+        "Air"
+    ],
+    [
+        "EWO",
+        "Electronic Warfare Officer",
+        "Air"
+    ],
+    [
+        "FAB-T",
+        "Family of Advanced Beyond Line-of-sight Terminals",
+        "Air"
+    ],
+    [
+        "FAC-A",
+        "Forward Air Controller Airborne",
+        "Air"
+    ],
+    [
+        "FAM",
+        "Functional Area Manager",
+        "Air"
+    ],
+    [
+        "FG",
+        "Fighter Group",
+        "Air"
+    ],
+    [
+        "FHP",
+        "Flying Hour Program",
+        "Air"
+    ],
+    [
+        "FLIR",
+        "Forward-looking Infrared",
+        "Air"
+    ],
+    [
+        "FLTS",
+        "Flight Test Squadron",
+        "Air"
+    ],
+    [
+        "FMC",
+        "Fully Mission Capable",
+        "Air"
+    ],
+    [
+        "FMV",
+        "Full-motion Video",
+        "Air"
+    ],
+    [
+        "FOB",
+        "Forward Operating Base",
+        "Air"
+    ],
+    [
+        "FOC",
+        "Full Operational Capability",
+        "Air"
+    ],
+    [
+        "FOL",
+        "Forward Operating Location",
+        "Air"
+    ],
+    [
+        "FPCON",
+        "Force Protection Conditions",
+        "Air"
+    ],
+    [
+        "FTAC",
+        "First Term Airmen Center",
+        "Air"
+    ],
+    [
+        "FTG",
+        "Flying Training Group",
+        "Air"
+    ],
+    [
+        "FTU",
+        "Formal Training Unit",
+        "Air"
+    ],
+    [
+        "FTU",
+        "Formal Training Unit",
+        "Air"
+    ],
+    [
+        "FTW",
+        "Flying Training Wing",
+        "Air"
+    ],
+    [
+        "FW",
+        "Fighter Wing",
+        "Air"
+    ],
+    [
+        "FY",
+        "Fiscal Year",
+        "Air"
+    ],
+    [
+        "GA",
+        "Guardian Angel (pararescuemen, Combat Rescue Officers, and Survival, Evasion, Resistance, and Escape Specialists)",
+        "Air"
+    ],
+    [
+        "GATM",
+        "Global Air Traffic Management",
+        "Air"
+    ],
+    [
+        "GBU",
+        "Guided Bomb Unit",
+        "Air"
+    ],
+    [
+        "GCS",
+        "Ground Control Station",
+        "Air"
+    ],
+    [
+        "GEODSS",
+        "Ground-based Electro-optical Deep Space Surveillance System",
+        "Air"
+    ],
+    [
+        "GPC",
+        "Government Purchase Card",
+        "Air"
+    ],
+    [
+        "GPS",
+        "Global Positioning System",
+        "Air"
+    ],
+    [
+        "GSSAP",
+        "Geosynchronous Space Situational Awareness Program",
+        "Air"
+    ],
+    [
+        "GSU",
+        "Geographically Separated Unit",
+        "Air"
+    ],
+    [
+        "GTC",
+        "Government Travel Card",
+        "Air"
+    ],
+    [
+        "HARM",
+        "High-speed Anti-radiation Missile",
+        "Air"
+    ],
+    [
+        "HE",
+        "High Explosive",
+        "Air"
+    ],
+    [
+        "HUD",
+        "Head-up Display",
+        "Air"
+    ],
+    [
+        "Helo",
+        "Helicopter",
+        "Air"
+    ],
+    [
+        "IADS",
+        "Integrated Air Defense System",
+        "Air"
+    ],
+    [
+        "IADT",
+        "Inactive Duty for Training",
+        "Air"
+    ],
+    [
+        "IBS",
+        "Integrated Battle Station",
+        "Air"
+    ],
+    [
+        "ICBM",
+        "Intercontinental Ballistic Missile",
+        "Air"
+    ],
+    [
+        "IDE",
+        "Intermediate Developmental Education",
+        "Air"
+    ],
+    [
+        "IED",
+        "Improvised Explosive Device",
+        "Air"
+    ],
+    [
+        "IFF",
+        "Identification, Friend Or Foe",
+        "Air"
+    ],
+    [
+        "IIR",
+        "Imaging Infrared",
+        "Air"
+    ],
+    [
+        "IMA",
+        "Individual Mobilization Augmentee",
+        "Air"
+    ],
+    [
+        "INS",
+        "Inertial Navigation System",
+        "Air"
+    ],
+    [
+        "IOC",
+        "Initial Operational Capability",
+        "Air"
+    ],
+    [
+        "IOC",
+        "Initial Operational Capability",
+        "Air"
+    ],
+    [
+        "IOF/S",
+        "Information Operations Flight/squadron",
+        "Air"
+    ],
+    [
+        "IOW",
+        "Information Operations Wing",
+        "Air"
+    ],
+    [
+        "IP",
+        "Instructor Pilot",
+        "Air"
+    ],
+    [
+        "IR",
+        "Infrared",
+        "Air"
+    ],
+    [
+        "IS",
+        "Intelligence Squadron",
+        "Air"
+    ],
+    [
+        "ISR/G/W",
+        "Intelligence, Surveillance, and Reconnaissance Group/wing",
+        "Air"
+    ],
+    [
+        "ISR",
+        "Intelligence, Surveillance, and Reconnaissance",
+        "Air"
+    ],
+    [
+        "IT",
+        "Information Technology",
+        "Air"
+    ],
+    [
+        "IVEWS",
+        "Integrated Viper Electronic Warfare Suite",
+        "Air"
+    ],
+    [
+        "IW",
+        "Intelligence Wing",
+        "Air"
+    ],
+    [
+        "IWS",
+        "Information Warfare Squadron",
+        "Air"
+    ],
+    [
+        "JADC2",
+        "Joint All Domain Command and Control",
+        "Air"
+    ],
+    [
+        "JADC2",
+        "Joint All-domain Command and Control",
+        "Air"
+    ],
+    [
+        "JASSM",
+        "Joint Air-to-surface Standoff Missile",
+        "Air"
+    ],
+    [
+        "JB",
+        "Joint Base",
+        "Air"
+    ],
+    [
+        "JBSA",
+        "Joint Base San Antonio",
+        "Air"
+    ],
+    [
+        "JDAM",
+        "Joint Direct Attack Munition",
+        "Air"
+    ],
+    [
+        "JMS",
+        "Joint Mission System",
+        "Air"
+    ],
+    [
+        "JNGB",
+        "Joint National Guard Base",
+        "Air"
+    ],
+    [
+        "JRB",
+        "Joint Reserve Base",
+        "Air"
+    ],
+    [
+        "JROTC",
+        "Junior Reserve Officer Training Corps",
+        "Air"
+    ],
+    [
+        "JROTC",
+        "Junior Reserve Officers\u2019 Training Corps",
+        "Air"
+    ],
+    [
+        "JSOW",
+        "Joint Standoff Weapon",
+        "Air"
+    ],
+    [
+        "JSTARS",
+        "Joint Surveillance Target Attack Radar System",
+        "Air"
+    ],
+    [
+        "JSUPT",
+        "Joint Specialized Undergraduate Pilot Training",
+        "Air"
+    ],
+    [
+        "JSpOC",
+        "Joint Space Operations Center",
+        "Air"
+    ],
+    [
+        "JTIDS",
+        "Joint Tactical Information Distribution System",
+        "Air"
+    ],
+    [
+        "KIA",
+        "Killed in Action",
+        "Air"
+    ],
+    [
+        "LAAR",
+        "Light Attack/armed Reconnaissance",
+        "Air"
+    ],
+    [
+        "LAD",
+        "Large Area Display",
+        "Air"
+    ],
+    [
+        "LANTIRN",
+        "Low-altitude Navigation and Targeting Infrared for Night",
+        "Air"
+    ],
+    [
+        "LCD",
+        "Liquid Crystal Display",
+        "Air"
+    ],
+    [
+        "LDM",
+        "Loadmaster",
+        "Air"
+    ],
+    [
+        "LGB",
+        "Laser-guided Bomb",
+        "Air"
+    ],
+    [
+        "LJDAM",
+        "Laser Joint Direct Attack Munition",
+        "Air"
+    ],
+    [
+        "LO",
+        "Low Observable",
+        "Air"
+    ],
+    [
+        "LOE",
+        "Line of Effort",
+        "Air"
+    ],
+    [
+        "LOS",
+        "Line of Sight",
+        "Air"
+    ],
+    [
+        "LRASM",
+        "Long-range Anti-ship Missile",
+        "Air"
+    ],
+    [
+        "MAFFS",
+        "Modular Airborne Firefighting System",
+        "Air"
+    ],
+    [
+        "MALD",
+        "Miniature Air-launched Decoy",
+        "Air"
+    ],
+    [
+        "MASINT",
+        "Measurement and Signature Intelligence",
+        "Air"
+    ],
+    [
+        "MCA",
+        "Multi-capable Airmen",
+        "Air"
+    ],
+    [
+        "MCB",
+        "Marine Corps Base",
+        "Air"
+    ],
+    [
+        "MCE",
+        "Mission Control Element",
+        "Air"
+    ],
+    [
+        "MDG",
+        "Medical Group",
+        "Air"
+    ],
+    [
+        "MDW",
+        "Medical Wing",
+        "Air"
+    ],
+    [
+        "MFD",
+        "Multifunction Display",
+        "Air"
+    ],
+    [
+        "MILCON",
+        "Military Construction",
+        "Air"
+    ],
+    [
+        "MILSATCOM",
+        "Military Satellite Communications",
+        "Air"
+    ],
+    [
+        "MISS",
+        "Mission/s",
+        "Air"
+    ],
+    [
+        "MOA",
+        "Memorandum of Agreement",
+        "Air"
+    ],
+    [
+        "MOH",
+        "Medal of Honor",
+        "Air"
+    ],
+    [
+        "MOU",
+        "Memorandum of Understanding",
+        "Air"
+    ],
+    [
+        "MSG",
+        "Mission Support Group",
+        "Air"
+    ],
+    [
+        "MW",
+        "Missile Wing",
+        "Air"
+    ],
+    [
+        "N/A",
+        "Not Available",
+        "Air"
+    ],
+    [
+        "NAF",
+        "Naval Air Facility",
+        "Air"
+    ],
+    [
+        "NAF",
+        "Nonappropriated Funds",
+        "Air"
+    ],
+    [
+        "NAOC",
+        "National Airborne Operations Center",
+        "Air"
+    ],
+    [
+        "NAS",
+        "Naval Air Station",
+        "Air"
+    ],
+    [
+        "NAV",
+        "Navigation/navigator",
+        "Air"
+    ],
+    [
+        "NCOA",
+        "Noncommissioned Officer Academy",
+        "Air"
+    ],
+    [
+        "NCR",
+        "National Capital Region",
+        "Air"
+    ],
+    [
+        "NDAA",
+        "National Defense Authorization Act",
+        "Air"
+    ],
+    [
+        "NDS",
+        "National Defense Strategy",
+        "Air"
+    ],
+    [
+        "NEO",
+        "Noncombatant Evacuation Operation",
+        "Air"
+    ],
+    [
+        "NGAAW",
+        "Next Generation Area Attack Weapons",
+        "Air"
+    ],
+    [
+        "NIPR",
+        "Non-secure Internet Protocol Router",
+        "Air"
+    ],
+    [
+        "NMC",
+        "Non Mission Capable",
+        "Air"
+    ],
+    [
+        "NORTHCOM",
+        "U.S. Northern Command",
+        "Air"
+    ],
+    [
+        "NOSS",
+        "Network Operations Security Squadron",
+        "Air"
+    ],
+    [
+        "NSSL",
+        "National Security Space Launch",
+        "Air"
+    ],
+    [
+        "NVG",
+        "Night Vision Goggles",
+        "Air"
+    ],
+    [
+        "O&M",
+        "Operations and Maintenance",
+        "Air"
+    ],
+    [
+        "O&M",
+        "Operations and Maintenance",
+        "Air"
+    ],
+    [
+        "OCO",
+        "Overseas Contingency Operations",
+        "Air"
+    ],
+    [
+        "OCONUS",
+        "Outside Continental United States",
+        "Air"
+    ],
+    [
+        "OJT",
+        "on the Job Training",
+        "Air"
+    ],
+    [
+        "OPLAN",
+        "Operations Plan",
+        "Air"
+    ],
+    [
+        "OPS",
+        "Operations/operators",
+        "Air"
+    ],
+    [
+        "OT&E",
+        "Operational Test and Evaluation",
+        "Air"
+    ],
+    [
+        "PACAF",
+        "Pacific Air Forces",
+        "Air"
+    ],
+    [
+        "PACOM",
+        "U.S. Indo-pacific Command",
+        "Air"
+    ],
+    [
+        "PAR",
+        "Presidential Aircraft Replacement",
+        "Air"
+    ],
+    [
+        "PARCS",
+        "Perimeter Acquisition Radar Attack Characterization System",
+        "Air"
+    ],
+    [
+        "PDE",
+        "Primary Developmental Education",
+        "Air"
+    ],
+    [
+        "PEO",
+        "Program Executive Officer",
+        "Air"
+    ],
+    [
+        "PGM",
+        "Precision Guided Munition",
+        "Air"
+    ],
+    [
+        "PME",
+        "Professional Military Education",
+        "Air"
+    ],
+    [
+        "POC",
+        "Point of Contact",
+        "Air"
+    ],
+    [
+        "PSP",
+        "Precision Strike Package",
+        "Air"
+    ],
+    [
+        "PT",
+        "Physical Training",
+        "Air"
+    ],
+    [
+        "QA",
+        "Quality Assurance",
+        "Air"
+    ],
+    [
+        "QoL",
+        "Quality of Life",
+        "Air"
+    ],
+    [
+        "R&D",
+        "Research and Development",
+        "Air"
+    ],
+    [
+        "RAMP",
+        "Reliability, Availability, and Maintainability Program",
+        "Air"
+    ],
+    [
+        "RAOC",
+        "Regional Air Operations Center",
+        "Air"
+    ],
+    [
+        "RATO",
+        "Rocket-assisted Take Off",
+        "Air"
+    ],
+    [
+        "RATS",
+        "Radar Aided Targeting System",
+        "Air"
+    ],
+    [
+        "RDT&E",
+        "Research, Development, Test, and Evaluation",
+        "Air"
+    ],
+    [
+        "RED",
+        "Horse Rapid Engineer Deployable Heavy Operational Repair Squadron Engineers",
+        "Air"
+    ],
+    [
+        "RG",
+        "Reconnaissance Group",
+        "Air"
+    ],
+    [
+        "ROE",
+        "Rules of Engagement",
+        "Air"
+    ],
+    [
+        "ROTC",
+        "Reserve Officer Training Corps",
+        "Air"
+    ],
+    [
+        "ROTC",
+        "Reserve Officer\u2019s Training Corps",
+        "Air"
+    ],
+    [
+        "ROVER",
+        "Remotely Operated Video Enhanced Receiver",
+        "Air"
+    ],
+    [
+        "RPA",
+        "Remotely Piloted Aircraft",
+        "Air"
+    ],
+    [
+        "RQG",
+        "Rescue Group",
+        "Air"
+    ],
+    [
+        "RQS",
+        "Rescue Squadron",
+        "Air"
+    ],
+    [
+        "RQW",
+        "Rescue Wing",
+        "Air"
+    ],
+    [
+        "RS",
+        "Reconnaissance Squadron",
+        "Air"
+    ],
+    [
+        "RSC",
+        "Resource/s",
+        "Air"
+    ],
+    [
+        "RSG",
+        "Regional Support Group",
+        "Air"
+    ],
+    [
+        "RW",
+        "Reconnaissance Wing",
+        "Air"
+    ],
+    [
+        "RWR",
+        "Radar Warning Receiver",
+        "Air"
+    ],
+    [
+        "S-L",
+        "Sea Level",
+        "Air"
+    ],
+    [
+        "SACU",
+        "Situational Awareness Capabilities Upgrade",
+        "Air"
+    ],
+    [
+        "SAPR",
+        "Sexual Assault Prevention and Response",
+        "Air"
+    ],
+    [
+        "SAR",
+        "Synthetic Aperture Radar",
+        "Air"
+    ],
+    [
+        "SATCOM",
+        "Satellite Communications",
+        "Air"
+    ],
+    [
+        "SBIRS",
+        "Space-based Infrared System",
+        "Air"
+    ],
+    [
+        "SCMG",
+        "Supply Chain Management Group",
+        "Air"
+    ],
+    [
+        "SCMS",
+        "Supply Chain Management Squadron",
+        "Air"
+    ],
+    [
+        "SCMW",
+        "Supply Chain Management Wing",
+        "Air"
+    ],
+    [
+        "SCOW",
+        "Supply Chain Operations Wing",
+        "Air"
+    ],
+    [
+        "SDB",
+        "Small Diameter Bomb",
+        "Air"
+    ],
+    [
+        "SDE",
+        "Senior Developmental Education",
+        "Air"
+    ],
+    [
+        "SEAD",
+        "Suppression of Enemy Air Defenses",
+        "Air"
+    ],
+    [
+        "SERE",
+        "Survival, Evasion, Resistance, and Escape",
+        "Air"
+    ],
+    [
+        "SHF",
+        "Superhigh Frequency Shp Shaft Horsepower",
+        "Air"
+    ],
+    [
+        "SIGINT",
+        "Signals Intelligence",
+        "Air"
+    ],
+    [
+        "SLEP",
+        "Service Life Extension Program",
+        "Air"
+    ],
+    [
+        "SMC",
+        "Space and Missile Systems Center",
+        "Air"
+    ],
+    [
+        "SME",
+        "Subject Matter Expert",
+        "Air"
+    ],
+    [
+        "SNCOA",
+        "Senior Noncommissioned Officer Academy",
+        "Air"
+    ],
+    [
+        "SOCOM",
+        "U.S. Special Operations Command",
+        "Air"
+    ],
+    [
+        "SOF",
+        "Special Operations Forces",
+        "Air"
+    ],
+    [
+        "SOG",
+        "Special Operations Group",
+        "Air"
+    ],
+    [
+        "SOP",
+        "Standard Operating Procedure",
+        "Air"
+    ],
+    [
+        "SOPS",
+        "Space Operations Squadron",
+        "Air"
+    ],
+    [
+        "SOS",
+        "Squadron Officer School",
+        "Air"
+    ],
+    [
+        "SOW",
+        "Special Operations Wing",
+        "Air"
+    ],
+    [
+        "SPADOC",
+        "Space Defense Operations Center",
+        "Air"
+    ],
+    [
+        "SPC",
+        "Specialist",
+        "Air"
+    ],
+    [
+        "SPCS",
+        "Space Control Squadron",
+        "Air"
+    ],
+    [
+        "SPOS",
+        "Space Operations Squadrons",
+        "Air"
+    ],
+    [
+        "START",
+        "Strategic Arms Reduction Treaty",
+        "Air"
+    ],
+    [
+        "STEM",
+        "Science, Technology, Engineering, and Mathematics",
+        "Air"
+    ],
+    [
+        "STOL",
+        "Short Takeoff and Landing",
+        "Air"
+    ],
+    [
+        "STRATCOM",
+        "U.S. Strategic Command",
+        "Air"
+    ],
+    [
+        "STS",
+        "Special Tactics Squadron",
+        "Air"
+    ],
+    [
+        "SUPT",
+        "Superintendent",
+        "Air"
+    ],
+    [
+        "SURVEILLANCE",
+        "and Reconnaissance",
+        "Air"
+    ],
+    [
+        "SW",
+        "Space Wing",
+        "Air"
+    ],
+    [
+        "SWS",
+        "Space Warning Squadron",
+        "Air"
+    ],
+    [
+        "SYS",
+        "System/s",
+        "Air"
+    ],
+    [
+        "SiAW",
+        "Stand-in Attack Weapon",
+        "Air"
+    ],
+    [
+        "T&E",
+        "Test and Evaluation",
+        "Air"
+    ],
+    [
+        "TACAN",
+        "Tactical Air Navigation",
+        "Air"
+    ],
+    [
+        "TACC",
+        "Tanker Airlift Control Center",
+        "Air"
+    ],
+    [
+        "TACP",
+        "Tactical Air Control Party",
+        "Air"
+    ],
+    [
+        "TAI",
+        "Total Active Inventory",
+        "Air"
+    ],
+    [
+        "TBD",
+        "to Be Determined",
+        "Air"
+    ],
+    [
+        "TDY",
+        "Temporary Duty",
+        "Air"
+    ],
+    [
+        "TF/TA",
+        "Terrain-following/terrain-avoidance",
+        "Air"
+    ],
+    [
+        "TFI",
+        "Total Force Integration",
+        "Air"
+    ],
+    [
+        "TG",
+        "Test",
+        "Air"
+    ],
+    [
+        "TR",
+        "Traditional Reservist",
+        "Air"
+    ],
+    [
+        "TS",
+        "Top Secret",
+        "Air"
+    ],
+    [
+        "UCI",
+        "Unit Compliance Inspection",
+        "Air"
+    ],
+    [
+        "UCMJ",
+        "Uniform Code of Military Justice",
+        "Air"
+    ],
+    [
+        "UEI",
+        "Unit Effectiveness Inspection",
+        "Air"
+    ],
+    [
+        "XAB",
+        "Expeditionary Airbase",
+        "Air"
+    ]
+]
