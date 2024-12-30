@@ -1,67 +1,327 @@
-{
-    "CAM": "Combat Assessment Manager",
-    "TWB": "Target Work Bench",
-    "JOS": "Joint Operating System",
-    "IL1": "Impact Level 1 (Unclassified, non-sensitive, publicly releasable information)",
-    "IL2": "Impact Level 2 (Unclassified public information)",
-    "IL3": "Impact Level 3 Controlled Unclassified Information (CUI)",
-    "IL4": "Impact Level 4 (CUI and low-criticality mission data)",
-    "IL5": "Impact Level 5 (CUI and high-criticality mission data)",
-    "IL6": "Impact Level 6 (Classified information up to SECRET)",
-    "IL7": "Impact Level 7 (Top Secret or SCI information)",
-    "GIO": "Globally Integrated Options",
-    "C5P": "Cross Combatant Command and Coalition Cooperative Planning",
-    "OKR": "Objectives and Key Results",
-    "KR": "Key Results",
-    "DIE": "Defense Intelligence Enterprise",
-    "GEM": "Global Effects Management",
-    "DWN": "Defense Warning Network",
-    "JFN": "Joint Fires Network",
-    "TRMC": "Test Resource Management Center",
-    "JMETC": "Joint Mission Environment Test Capability",
-    "NCRC": "National Cyber Range Complex",
-    "TENA": "Test and Training Enabling Architecture",
-    "SDA": "Software Development Activity",
-    "GCO": "Global Crisis Options",
-    "ICE": "Integrated Commanders\u2019 Estimate",
-    "CJADC2": "Combined Joint All Domain Command and Control",
-    "CDAO": "Chief Digital and Artificial Intelligence Office",
-    "GIDE": "Global Information Dominance Experiments",
-    "VJOC": "Virtual Joint Operations Center",
-    "MVC": "Minimum Viable Capability",
-    "KOP": "Key Operational Process",
-    "GIE": "Globally Integrated Exercise; Global Information Environment",
-    "MSS": "Maven Smart System",
-    "IPC": "Initial Planning Conference",
-    "MPC": "Mid Planning Conference",
-    "FPC": "Final Planning Conference",
-    "TWS": "Technical Working Session; Targeted Working Session",
-    "DIL": "Data Integration Layer",
-    "IAPR": "Integration Acquisition Portfolio Review",
-    "AWG": "Acquisition Working Group",
-    "AI2": "Acquisition Integration & Interoperability",
-    "CAP": "Competitive Advantage Pathfinders",
-    "SPR": "Strategic Portfolio Review",
-    "RDER": "Rapid Defense Experimentation Reserve",
-    "FADE": "Fusion Analysis & Development Effort",
-    "MRI": "Munitions Readiness Initiative",
-    "OMS": "Open Mission Systems",
-    "LLM": "Large Language Model",
-    "BMC2": "Battle Management Command and Control",
-    "TRAX": "Tactical Radio Extension",
-    "LMMT": "Link Monitoring and Management Tool",
-    "PRSM": "Precision Strike Missile",
-    "LRHW": "Long Range Hypersonic Weapon",
-    "DAGIR": "Digital Air-Ground Integration Range",
-    "SIB": "Software in box",
-    "JTC": "Joint Targeting Cycle",
-    "TAK": "Tactical Assault Kit",
-    "ESB": "Enterprise Service Bus",
-    "MME": "Mobile Mesh Equipment",
-    "GIDEX": "Global Information Dominance Experiments (Condensed)",
-    "KPI": "Key Performance Indicator",
-    "NKE": "Non Kinetic Effect",
-    "TC-PED": "Tasking, Collection, Processing, Exploitation, and Dissemination",
-    "CDS": "Cross Domain Solution",
-    "JIAMDO": "Joint Integrated Air and Missile Defense Organization"
-}
+[
+    [
+        "CAM",
+        "Combat Assessment Manager",
+        "Misc"
+    ],
+    [
+        "TWB",
+        "Target Work Bench",
+        "Misc"
+    ],
+    [
+        "JOS",
+        "Joint Operating System",
+        "Misc"
+    ],
+    [
+        "IL1",
+        "Impact Level 1 (Unclassified, non-sensitive, publicly releasable information)",
+        "Misc"
+    ],
+    [
+        "IL2",
+        "Impact Level 2 (Unclassified public information)",
+        "Misc"
+    ],
+    [
+        "IL3",
+        "Impact Level 3 Controlled Unclassified Information (CUI)",
+        "Misc"
+    ],
+    [
+        "IL4",
+        "Impact Level 4 (CUI and low-criticality mission data)",
+        "Misc"
+    ],
+    [
+        "IL5",
+        "Impact Level 5 (CUI and high-criticality mission data)",
+        "Misc"
+    ],
+    [
+        "IL6",
+        "Impact Level 6 (Classified information up to SECRET)",
+        "Misc"
+    ],
+    [
+        "IL7",
+        "Impact Level 7 (Top Secret or SCI information)",
+        "Misc"
+    ],
+    [
+        "GIO",
+        "Globally Integrated Options",
+        "Misc"
+    ],
+    [
+        "C5P",
+        "Cross Combatant Command and Coalition Cooperative Planning",
+        "Misc"
+    ],
+    [
+        "OKR",
+        "Objectives and Key Results",
+        "Misc"
+    ],
+    [
+        "KR",
+        "Key Results",
+        "Misc"
+    ],
+    [
+        "DIE",
+        "Defense Intelligence Enterprise",
+        "Misc"
+    ],
+    [
+        "GEM",
+        "Global Effects Management",
+        "Misc"
+    ],
+    [
+        "DWN",
+        "Defense Warning Network",
+        "Misc"
+    ],
+    [
+        "JFN",
+        "Joint Fires Network",
+        "Misc"
+    ],
+    [
+        "TRMC",
+        "Test Resource Management Center",
+        "Misc"
+    ],
+    [
+        "JMETC",
+        "Joint Mission Environment Test Capability",
+        "Misc"
+    ],
+    [
+        "NCRC",
+        "National Cyber Range Complex",
+        "Misc"
+    ],
+    [
+        "TENA",
+        "Test and Training Enabling Architecture",
+        "Misc"
+    ],
+    [
+        "SDA",
+        "Software Development Activity",
+        "Misc"
+    ],
+    [
+        "GCO",
+        "Global Crisis Options",
+        "Misc"
+    ],
+    [
+        "ICE",
+        "Integrated Commanders\u2019 Estimate",
+        "Misc"
+    ],
+    [
+        "CJADC2",
+        "Combined Joint All Domain Command and Control",
+        "Misc"
+    ],
+    [
+        "CDAO",
+        "Chief Digital and Artificial Intelligence Office",
+        "Misc"
+    ],
+    [
+        "GIDE",
+        "Global Information Dominance Experiments",
+        "Misc"
+    ],
+    [
+        "VJOC",
+        "Virtual Joint Operations Center",
+        "Misc"
+    ],
+    [
+        "MVC",
+        "Minimum Viable Capability",
+        "Misc"
+    ],
+    [
+        "KOP",
+        "Key Operational Process",
+        "Misc"
+    ],
+    [
+        "GIE",
+        "Globally Integrated Exercise; Global Information Environment",
+        "Misc"
+    ],
+    [
+        "MSS",
+        "Maven Smart System",
+        "Misc"
+    ],
+    [
+        "IPC",
+        "Initial Planning Conference",
+        "Misc"
+    ],
+    [
+        "MPC",
+        "Mid Planning Conference",
+        "Misc"
+    ],
+    [
+        "FPC",
+        "Final Planning Conference",
+        "Misc"
+    ],
+    [
+        "TWS",
+        "Technical Working Session; Targeted Working Session",
+        "Misc"
+    ],
+    [
+        "DIL",
+        "Data Integration Layer",
+        "Misc"
+    ],
+    [
+        "IAPR",
+        "Integration Acquisition Portfolio Review",
+        "Misc"
+    ],
+    [
+        "AWG",
+        "Acquisition Working Group",
+        "Misc"
+    ],
+    [
+        "AI2",
+        "Acquisition Integration & Interoperability",
+        "Misc"
+    ],
+    [
+        "CAP",
+        "Competitive Advantage Pathfinders",
+        "Misc"
+    ],
+    [
+        "SPR",
+        "Strategic Portfolio Review",
+        "Misc"
+    ],
+    [
+        "RDER",
+        "Rapid Defense Experimentation Reserve",
+        "Misc"
+    ],
+    [
+        "FADE",
+        "Fusion Analysis & Development Effort",
+        "Misc"
+    ],
+    [
+        "MRI",
+        "Munitions Readiness Initiative",
+        "Misc"
+    ],
+    [
+        "OMS",
+        "Open Mission Systems",
+        "Misc"
+    ],
+    [
+        "LLM",
+        "Large Language Model",
+        "Misc"
+    ],
+    [
+        "BMC2",
+        "Battle Management Command and Control",
+        "Misc"
+    ],
+    [
+        "TRAX",
+        "Tactical Radio Extension",
+        "Misc"
+    ],
+    [
+        "LMMT",
+        "Link Monitoring and Management Tool",
+        "Misc"
+    ],
+    [
+        "PRSM",
+        "Precision Strike Missile",
+        "Misc"
+    ],
+    [
+        "LRHW",
+        "Long Range Hypersonic Weapon",
+        "Misc"
+    ],
+    [
+        "DAGIR",
+        "Digital Air-Ground Integration Range",
+        "Misc"
+    ],
+    [
+        "SIB",
+        "Software in box",
+        "Misc"
+    ],
+    [
+        "JTC",
+        "Joint Targeting Cycle",
+        "Misc"
+    ],
+    [
+        "TAK",
+        "Tactical Assault Kit",
+        "Misc"
+    ],
+    [
+        "ESB",
+        "Enterprise Service Bus",
+        "Misc"
+    ],
+    [
+        "MME",
+        "Mobile Mesh Equipment",
+        "Misc"
+    ],
+    [
+        "GIDEX",
+        "Global Information Dominance Experiments (Condensed)",
+        "Misc"
+    ],
+    [
+        "KPI",
+        "Key Performance Indicator",
+        "Misc"
+    ],
+    [
+        "NKE",
+        "Non Kinetic Effect",
+        "Misc"
+    ],
+    [
+        "TC-PED",
+        "Tasking, Collection, Processing, Exploitation, and Dissemination",
+        "Misc"
+    ],
+    [
+        "CDS",
+        "Cross Domain Solution",
+        "Misc"
+    ],
+    [
+        "JIAMDO",
+        "Joint Integrated Air and Missile Defense Organization",
+        "Misc"
+    ]
+]
