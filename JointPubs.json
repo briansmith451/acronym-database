@@ -1,32 +1,9 @@
 [
-    [
-        "AA",
-        "assessment agent; avenue of approach",
-        "Joint"
-    ],
-    [
-        "AA&E",
-        "arms, ammunition, and explosives",
-        "Joint"
-    ],
-    [
-        "AAA",
-        "antiaircraft artillery",
-        "Joint"
-    ],
-    [
-        "AAC",
-        "activity address code",
-        "Joint"
-    ],
-    [
-        "AACG",
-        "arrival airfield control group",
-        "Joint"
-    ],
-    [
-        "AADC",
-        "area air defense commander",
-        "Joint"
-    ]
+["ACRONYM", "Definition", "Category"],
+["AA", "assessment agent; avenue of approach", "Joint Staff"],
+["AA&E", "arms, ammunition, and explosives", "Joint Staff"],
+["AAA", "antiaircraft artillery", "Joint Staff"],
+["AAC", "activity address code", "Joint Staff"],
+["AACG", "arrival airfield control group", "Joint Staff"],
+["AADC", "area air defense commander", "Joint Staff"]
 ]
